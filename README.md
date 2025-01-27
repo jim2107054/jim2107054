@@ -1,5 +1,5 @@
 <h1 align="center">I'm MD. Jahid Hasan Jim</h1>
-<h3 align="center">Undergrad CSE Student at KUET | Aspiring Software Developer | Passionate about AI and Machine Learning</h3>
+<h3 align="center">CSE Student at KUET | Aspiring Software Developer | Passionate about AI and Machine Learning</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
