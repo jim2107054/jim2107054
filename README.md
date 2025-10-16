@@ -60,3 +60,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=jim2107054&icon=0&color=0)](https://visitcount.itsvg.in)
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=jim2107054&bg_color=1a1b27&color=1f6feb&line=38bcad&point=628fdb&area=true&hide_border=true" alt="Jim's GitHub Activity Graph" />
+
+<br />
