@@ -1,4 +1,4 @@
-<h1 align="center">I'm MD. Jahid Hasan Jim</h1>
+<h1 align="center">I'm MD Jahid Hasan Jim</h1>
 <h3 align="center">Undergrad CSE Student at KUET | Passionate about AI and Machine Learning</h3>
 
 <h3 align="left">Connect with me:</h3>
